@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ornek1
+namespace aracOrtTuketim
 {
     // bu proje elektrikli araçların ortam şartlarına göre elektrik kullanımını hesaplar.
     internal class Program
